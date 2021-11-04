@@ -1,9 +1,0 @@
-name: BuyBarrier
-main: BuyBarrier\Main
-api: [3.0.0-ALPHA12, 3.0.0]
-version: 1.0
-author: DevAqua
-
-commands:
- buybarrier:
-  description: "buy 1 barrier"
